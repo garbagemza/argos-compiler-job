@@ -1,0 +1,23 @@
+{
+  "name": "argos-compiler-job",
+  "version": "1.0.0",
+  "description": "this is argos compiler job",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/garbagemza/argos-compiler-job.git"
+  },
+  "author": "garbagemza",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/garbagemza/argos-compiler-job/issues"
+  },
+  "homepage": "https://github.com/garbagemza/argos-compiler-job#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
